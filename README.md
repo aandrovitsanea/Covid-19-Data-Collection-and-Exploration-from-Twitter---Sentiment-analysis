@@ -23,7 +23,6 @@ I assume that simple emoticons can capture the sentiment of a tweet. This emotic
 
 Finally I clean the data by using regular expressions to extract:
 
-
 * Punctuation
 * Digits
 * New line characters
